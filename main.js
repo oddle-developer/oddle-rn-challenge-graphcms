@@ -13,7 +13,9 @@ const GRAPHCMS_ENDPOINT = "<GRAPHCMS_ENDPOINT>";
 const GRAPHCMS_TOKEN = "<GRAPHCMS_TOKEN>";
 
 const client = new GraphQLClient(GRAPHCMS_ENDPOINT, {
-  headers: { Authorization: `Bearer ${GRAPHCMS_TOKEN}` },
+  headers: {
+    Authorization: `Bearer ${GRAPHCMS_TOKEN}`,
+  },
 });
 
 let count = 0;
