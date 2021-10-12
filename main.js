@@ -1,16 +1,9 @@
-/**
- *
- * the products data in this repository is
- * taken from https://makeup-api.herokuapp.com/
- * all credits belong to the respective owner
- *
- * */
-import data from "./products.json";
 import PQueue from "p-queue/dist";
 import { GraphQLClient, gql } from "graphql-request";
+import data from "./products.json";
 
-const GRAPHCMS_ENDPOINT = "<GRAPHCMS_ENDPOINT>";
-const GRAPHCMS_TOKEN = "<GRAPHCMS_TOKEN>";
+const GRAPHCMS_ENDPOINT = "<YOUR_GRAPHCMS_ENDPOINT>";
+const GRAPHCMS_TOKEN = "<YOUR_GRAPHCMS_TOKEN>";
 
 const client = new GraphQLClient(GRAPHCMS_ENDPOINT, {
   headers: {
