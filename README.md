@@ -3,7 +3,9 @@
 ## Intro
 
 This application allows developer to upload a list of products to graphCMS.
+
 The products used in this application is retrieved from https://makeup-api.herokuapp.com/
+
 All rights and credits related to the products reserved to the respective owner
 
 
@@ -31,6 +33,8 @@ $ yarn
 ```
 
 ## Usage
+
+0. Make sure you are using Node v12 and above
 
 1. Once you have done the setup above, run the upload script by firing the command bellow 
 
