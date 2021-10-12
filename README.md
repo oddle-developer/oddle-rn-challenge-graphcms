@@ -40,4 +40,4 @@ $ yarn start
 
 ```
 
-2. You know the upload script is done once you see the queue onCompleted event log on your console
+2. You know the whole process is done once you see the queue onCompleted event log on your console
