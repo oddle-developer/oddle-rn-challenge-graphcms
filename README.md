@@ -48,7 +48,7 @@ $ npm install
 
 11. Once the "Update Management API permissions" modal appears, check the "Read existing environments, Create new models, Create new fields, Update existing fields" permissions and press the "Update" button
 
-12. Once you have set the token permissions, copy the value of the token and replace "<YOUR_GRAPHCMS_TOKEN>" inside the main.js with the value
+12. Once you have set the token permissions, copy the value of the token and replace "<YOUR_GRAPHCMS_TOKEN>" inside the config.js with the value
 
 13. Now you are ready to upload the products to your GraphCMS project
 
