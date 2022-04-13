@@ -2,11 +2,11 @@
 
 ## Intro
 
-This application allows developer to upload a list of products to graphCMS.
+This app allows developer to upload a product list to GraphCMS
 
-The products used in this application is retrieved from https://makeup-api.herokuapp.com/
+The products utilized in this app were obtained from https://makeup-api.herokuapp.com/
 
-All rights and credits related to the products reserved to the respective owner
+All product rights and credits are reserved for the rightful owner
 
 
 ## Tech Stack
@@ -22,15 +22,16 @@ All rights and credits related to the products reserved to the respective owner
 
 1. Clone this repo
 
-2. Replace "<YOUR_GRAPHCMS_ENDPOINT>" and "<YOUR_GRAPHCMS_TOKEN>" with your GraphCMS credentials
-
-3. Install the project's dependency
+2. Install the project's dependency
 
 ```
 
 $ yarn
 
 ```
+
+3. Replace "<YOUR_GRAPHCMS_ENDPOINT>" and "<YOUR_GRAPHCMS_TOKEN>" inside the index.js with your GraphCMS credentials
+
 
 ## Usage
 
@@ -44,4 +45,4 @@ $ yarn start
 
 ```
 
-2. You know the whole process is done once you see the queue onCompleted event log on your console
+2. You know the whole process is done once you see the queue onCompleted event log on your terminal
