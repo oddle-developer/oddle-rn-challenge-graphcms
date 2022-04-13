@@ -26,23 +26,23 @@ All product rights and credits are reserved for the rightful owner
 
 ```
 
-$ yarn
+$ npm install
 
 ```
 
-3. Replace "<YOUR_GRAPHCMS_ENDPOINT>" and "<YOUR_GRAPHCMS_TOKEN>" inside the index.js with your GraphCMS credentials
+3. Replace "<YOUR_GRAPHCMS_ENDPOINT>" and "<YOUR_GRAPHCMS_TOKEN>" inside main.js with your GraphCMS credentials
 
 
 ## Usage
 
-0. Make sure you are using Node v12 and above
+1. Make sure you are running Node v12 or above
 
-1. Once you have done the setup above, run the upload script by firing the command bellow 
-
-```
-
-$ yarn start
+2. Once you have done the setup above, run the upload script by firing the command bellow 
 
 ```
 
-2. You know the whole process is done once you see the queue onCompleted event log on your terminal
+$ npm run start
+
+```
+
+3. You know the whole process is done once you see the queue onCompleted event log on your terminal
