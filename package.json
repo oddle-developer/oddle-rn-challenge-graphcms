@@ -9,10 +9,10 @@
   "author": "Oddle Mobile Team",
   "license": "ISC",
   "devDependencies": {
-    "@graphcms/management": "^1.1.2",
     "esm": "^3.2.25"
   },
   "dependencies": {
+    "@graphcms/management": "^1.6.0",
     "graphql-request": "^3.5.0",
     "p-queue": "^6.6.2"
   }
