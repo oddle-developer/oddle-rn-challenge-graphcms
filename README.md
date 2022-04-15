@@ -83,7 +83,7 @@ $ npm run start
 4. You know the whole process is done once the process exits itself
 ![](/assets/ss_12.png)
 
-5. To verify, head to your GraphCMS project > Content > Product. At the bottom of the page, you should see at least 900++ items are available in the database
+5. To verify, head to your GraphCMS project > Content > Product. At the bottom of the page, you should see at least 900++ items available in your GraphCMS project
 ![](/assets/ss_13.png)
 
     * The number of items does not need to be exactly 931 items like how it is shown in the picture. As long as we have enough items to work with (900++), it is good enough
