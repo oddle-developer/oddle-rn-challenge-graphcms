@@ -49,7 +49,7 @@ Before we begin uploading the products, we must first complete the GraphCMS proj
 
 9. Once the "Update Management API permissions" modal appears, check the "Read existing environments, Create new models, Update existing models, Create new fields, Update existing fields" permissions and press the "Update" button
 
-![](/assets/ss_10.png)
+![](/assets/ss_10_1.png)
 
 10. Once you have set the token permissions. On the same page, scroll all the way up and copy the value of the token and replace "<YOUR_GRAPHCMS_TOKEN>" inside the config.js with the value
 
