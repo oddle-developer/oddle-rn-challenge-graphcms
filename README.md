@@ -47,7 +47,7 @@ Before we begin uploading the products, we must first complete the GraphCMS proj
 ![](/assets/ss_8.png)
 ![](/assets/ss_9.png)
 
-9. Once the "Update Management API permissions" modal appears, check the "Read existing environments, Create new models, Create new fields, Update existing fields" permissions and press the "Update" button
+9. Once the "Update Management API permissions" modal appears, check the "Read existing environments, Create new models, Update existing models, Create new fields, Update existing fields" permissions and press the "Update" button
 
 ![](/assets/ss_10.png)
 
